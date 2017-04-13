@@ -1,0 +1,32 @@
+{
+  "name": "twittercli",
+  "version": "1.0.0",
+  "description": "Command Line App that consumes Twitter API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Amah",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnlamah/twitcmdapp.git"
+  },
+  "keywords": [
+    "a",
+    "command",
+    "line",
+    "app",
+    "that",
+    "consumes",
+    "twitter",
+    "api"
+  ],
+  "bugs": {
+    "url": "https://github.com/dnlamah/twitcmdapp/issues"
+  },
+  "homepage": "https://github.com/dnlamah/twitcmdapp#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
